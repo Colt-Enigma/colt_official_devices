@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/pixel-2-xl/development/rom-colt-os-enigma-taimen-t3911826", 
+  "build_date": "20190414", 
+  "changelog": "====================\n     04-14-2019\n====================\n\n   * colt_official_devices/\n8466449  taimen: test OTA  [nitin1438]\n   * device/qcom/sepolicy/\n9f1e5a9b  sepolicy: Move definitions from Android.mk to make opt-in  [nitin1438]\n   * vendor/colt/\n24d2a1a  sepolicy: Add sepolicy for OTA app  [nitin1438]\nccc0441  Revert \"Hold OTA for a While\"  [nitin1438]\n\n====================\n     04-13-2019\n====================\n\n\n====================\n     04-12-2019\n====================\n\n\n====================\n     04-11-2019\n====================\n\n\n====================\n     04-10-2019\n====================\n\n\n", 
+  "url": "https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-3.9_OFFICIAL-20190414-taimen.zip/download", 
+  "error": "false", 
+  "filename": "ColtOS-Enigma-3.9_OFFICIAL-20190414-taimen.zip", 
+  "filesize": "980919040", 
+  "md5": "13a00e1e18f53a5dff02ed5d78f1b3c9", 
+  "donate_url": "https://www.paypal.me/nitinchobhe", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5044214", 
+  "website_url": "https://plus.google.com/communities/111037372581335961267", 
+  "developer": "nitin.chobhe"
+}
