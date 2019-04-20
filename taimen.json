@@ -4,7 +4,7 @@
   "changelog": "====================\n     04-14-2019\n====================\n\n   * colt_official_devices/\n8466449  taimen: test OTA  [nitin1438]\n   * device/qcom/sepolicy/\n9f1e5a9b  sepolicy: Move definitions from Android.mk to make opt-in  [nitin1438]\n   * vendor/colt/\n24d2a1a  sepolicy: Add sepolicy for OTA app  [nitin1438]\nccc0441  Revert \"Hold OTA for a While\"  [nitin1438]\n\n====================\n     04-13-2019\n====================\n\n\n====================\n     04-12-2019\n====================\n\n\n====================\n     04-11-2019\n====================\n\n\n====================\n     04-10-2019\n====================\n\n\n", 
   "url": "https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-4.0_OFFICIAL-20180414-taimen.zip/download", 
   "error": "false", 
-  "filename": "ColtOS-Enigma-3.9_OFFICIAL-20190414-taimen.zip", 
+  "filename": "ColtOS-Enigma-3.9_OFFICIAL-20190424-taimen.zip", 
   "filesize": "980919040", 
   "md5": "13a00e1e18f53a5dff02ed5d78f1b3c9", 
   "donate_url": "https://www.paypal.me/nitinchobhe", 
