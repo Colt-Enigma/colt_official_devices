@@ -2,7 +2,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <Stable>
     <taimen>
-      <Filename>ColtOS-Enigma-3.9_OFFICIAL-20190414-taimen.zip</Filename>
+      <Filename>ColtOS-Enigma-4.0_OFFICIAL-20190424-taimen.zip</Filename>
       <RomUrl id="rom" title="rom" description="Download The Latest Build">https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-3.9_OFFICIAL-20190414-taimen.zip/download</RomUrl>
       <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/pixel-2-xl/development/rom-colt-os-enigma-taimen-t3911826/</RomMirrorUrl>
       <ChangelogUrl id="changelogs" title="Changelogs" description="Check Out The Latest Changes">https://github.com/pixeldustproject-p/DeviceOTA/raw/p/Changelogs/Changelog_taimen.txt</ChangelogUrl>
