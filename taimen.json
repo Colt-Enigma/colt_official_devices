@@ -1,21 +1,21 @@
 {
   "forum_url": "https://forum.xda-developers.com/pixel-2-xl/development/rom-colt-os-enigma-taimen-t3911826", 
-  "build_date": "20190426", 
-  "changelog": "====================\n     04-14-2019\n====================\n\n   * colt_official_devices/\n8466449  taimen: test OTA  [nitin1438]\n   * device/qcom/sepolicy/\n9f1e5a9b  sepolicy: Move definitions from Android.mk to make opt-in  [nitin1438]\n   * vendor/colt/\n24d2a1a  sepolicy: Add sepolicy for OTA app  [nitin1438]\nccc0441  Revert \"Hold OTA for a While\"  [nitin1438]\n\n====================\n     04-13-2019\n====================\n\n\n====================\n     04-12-2019\n====================\n\n\n====================\n     04-11-2019\n====================\n\n\n====================\n     04-10-2019\n====================\n\n\n", 
-  "url": "https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-4.0_OFFICIAL-20180414-taimen.zip/download", 
+  "build_date": "20190428", 
+  "changelog": "====================\n     04-28-2019\n====================\n\n   * frameworks/base/\n8a83f73d07c  Revert \"android: Expose accent on QS Tiles\"  [RakeshBatra]\n51cf1296098  Change Default Switch  [RakeshBatra]\na8f8dc239c8  base: QS header improvements  [RakeshBatra]\nbf787d9a57e  Fix the QSHeader Accent without header images  [RakeshBatra]\n45c342a1beb  QS Header: Fix gradient view after device is rotated  [RakeshBatra]\n123588eea76  UiModeManagerService: Store messaging night state on Settings class  [RakeshBatra]\n6e3470929bf  graphics: Avoid crash issue of createBitmap  [RakeshBatra]\n82dbea215ac  [1/2] base: SystemUI: header image tweaks aka the big marginator  [RakeshBatra]\n879f53be751  [1/4] base: qs status bar header image  [RakeshBatra]\n5f70cd3bfe5  base: SystemUI: fix lock screen wallpaper usage  [RakeshBatra]\ndb0278e796e  Change animator duration scale default  [RakeshBatra]\ne511ff8f6b2  Lets given some size option to Q type text clock  [RakeshBatra]\n884b69f6adf  Weather client: switch to vector drawables  [RakeshBatra]\nb35bb433bae  CustomTextClock: Change 'It's' color according to wallpaper  [RakeshBatra]\ncec2fee5fe6  CustomTextClock: Code improvements [1/2]  [RakeshBatra]\n48dff4296e4  CustomTextClock: Use arrays  [RakeshBatra]\n5a2dc43453d  CustomTextClock: Match Android Q  [RakeshBatra]\n1676c55c0db  CustomTextClock: Make clock strings translatable  [RakeshBatra]\n50e35f2a02c  CustomTextClock: Improve UI and optimisations  [RakeshBatra]\n8986f5e64dd  Lockscreen Clock Styles: Introduce Q style text clock A gist of what happened: - Use a custom TextView to achieve the text - Use Rounded Elegance font cuz why not - Use a attribute to differenciate between hour hand and minute hand - Use a retarded yet simple method to get Strings for given integer - Set text according to system time format (12h/24h) - Set a top margin to push the lockscreen date (Unuglify) - Set a left padding for clock layout (Might need to be overlayed for some devices)  [RakeshBatra]\n   * vendor/colt/\n8d35b27  vendor: fonts: Add Source Sans Pro from Android Q  [RakeshBatra]\n9f3ae7b  Update Lawnchair to 2035  [RakeshBatra]\n8e4e09c  Add New Wall  [RakeshBatra]\n\n====================\n     04-27-2019\n====================\n\n   * packages/apps/OmniStyle/\nc9f7c22  Change the accent of Rocky Theme  [RakeshBatra]\n54cf9c6  Revert \"OmniStyle: add Syed header pack\"  [RakeshBatra]\n   * packages/apps/Settings/\n7063969685  Revert \"Dashboard : Quick Redesign\"  [RakeshBatra]\nadfc7937ff  Revert \"Adjust Searchbar\"  [RakeshBatra]\na393b5dd84  Revert \"Lets try something better\"  [RakeshBatra]\n   * prebuilts/clang/host/linux-x86/\n60464955  Update prebuilt Clang to r353983c.  [RakeshBatra]\n\n====================\n     04-26-2019\n====================\n\n   * colt_official_devices/\n4f7541b  taimen: first OTA  [nitin1438]\nf0b9734  Delete colt_ota.xml  [GitHub]\n003e81f  Update taimen.json  [GitHub]\n1b49faf  Update taimen.json  [GitHub]\n   * vendor/colt/\n0a7dafc  Correct colt_version so that OTA works  [nitin1438]\n\n====================\n     04-25-2019\n====================\n\n   * colt_official_devices/\n4983108  Update colt_ota.xml  [GitHub]\n   * packages/apps/Settings/\n7fae1f239c  SystemUpdatePreferenceController: Refactor for our OTA app  [nitin1438]\n   * vendor/colt/\n4adb568  Revert \"Hold OTA for a While\"  [nitin1438]\n\n====================\n     04-24-2019\n====================\n\n   * colt_official_devices/\needa929  Update colt_ota.xml  [GitHub]\n\n", 
+  "url": "https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-4.0_OFFICIAL-20190428-taimen.zip/download", 
   "error": "false", 
-  "filename": "ColtOS-Enigma-2.9_OFFICIAL-20190414-taimen.zip", 
-  "filesize": "980919040", 
-  "md5": "13a00e1e18f53a5dff02ed5d78f1b3c9", 
+  "filename": "ColtOS-Enigma-4.0_OFFICIAL-20190428-taimen.zip", 
+  "filesize": "980395192", 
+  "md5": "fda4e1b99673765a76188d64ecc08fbb", 
   "donate_url": "https://www.paypal.me/nitinchobhe", 
   "addons": [
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-v19.0.zip", 
       "summary": "Magisk", 
       "title": "Magisk"
     }, 
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-uninstaller-20190328.zip", 
       "summary": "Magisk Uninstaller", 
       "title": "Magisk"
     }
