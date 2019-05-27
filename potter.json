@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/g5-plus/development/rom-colt-enigma-t3901850", 
+  "build_date": "20190515", 
+  "changelog": "====================\n     05-15-2019\n====================\n\n\n====================\n     05-14-2019\n====================\n\n\n====================\n     05-13-2019\n====================\n\n   * frameworks/base/\ne992de708b1  BatteryService: add turbo power charging support  [ultranoob-5]\n8e5e2e8a6c4  Fix DashCharging after r37 merge  [RakeshBatra]\n   * manifest/\n51bb12b  Update Readme for Colt's Prebuilt apks  [RakeshBatra]\n   * packages/apps/WeatherClient/\n8aea5e6  WeatherClient: Force stop application if running for more than 60 seconds  [RakeshBatra]\nab01f6b  WeatherClient: Update google play services libs  [RakeshBatra]\n\n====================\n     05-12-2019\n====================\n\n   * frameworks/base/\n0f7cfa58963  StatusBar battery: Toggle for left/right percentage position [1/2]  [RakeshBatra]\n86d26701fc4  Lets add LS Font style to Q Text Clock  [RakeshBatra]\n   * manifest/\n17e58b1  Track external/google from Colt  [RakeshBatra]\n   * packages/apps/ColtCenter/\ndc7183b  correct the font size  [RakeshBatra]\n0e396bd  StatusBar battery: Toggle for left/right percentage position [2/2]  [RakeshBatra]\n   * packages/apps/Contacts/\n7128529a3  Merge tag 'android-9.0.0_r37' of https://android.googlesource.com/platform/packages/apps/Contacts into c9  [RakeshBatra]\n   * packages/providers/DownloadProvider/\n6ea88e6  Merge tag 'android-9.0.0_r37' of https://android.googlesource.com/platform/packages/providers/DownloadProvider into c9  [RakeshBatra]\n   * vendor/colt/\n6468c69  Updated Lawnchair to 2066  [RakeshBatra]\n0d2df38  Its 4.1  [RakeshBatra]\ne12d1d5  QSOreo:Fix tinting on expanded status bar  [RakeshBatra]\n\n====================\n     05-11-2019\n====================\n\n   * frameworks/base/\n3ccbde8c98d  Added more font styles for statusbar clock  [RakeshBatra]\ne5881c5dd11  Merge tag 'android-9.0.0_r37' of into colt/cos9  [RakeshBatra]\n   * packages/apps/ColtCenter/\n09d3613  move some codes to LSUI  [RakeshBatra]\n7a95a06  Custom seekbar pref: allow to refresh values  [RakeshBatra]\n   * packages/apps/OmniStyle/\nfe216c6  give cyan accent to transparent theme  [RakeshBatra]\n\n", 
+  "url": "https://sourceforge.net/projects/coltos/files/Potter/ColtOS-Enigma-4.1_OFFICIAL-20190515-potter.zip/download", 
+  "error": "false", 
+  "filename": "ColtOS-Enigma-4.1_OFFICIAL-20190515-potter.zip", 
+  "filesize": "649308962", 
+  "md5": "599ce00bb3dd094f9067d18baa737dc0", 
+  "donate_url": "https://www.paypal.me/rakeshbatra", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.1/Magisk-v19.1.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.1/Magisk-uninstaller-20190501.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=7916453", 
+  "website_url": "https://plus.google.com/communities/111037372581335961267", 
+  "developer": "Anish Pratheepan"
+}
