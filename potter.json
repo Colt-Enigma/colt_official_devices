@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/g5-plus/development/rom-colt-enigma-t3901850", 
-  "build_date": "20190527",
-  "changelog": "====================\n     05-27-2019\n====================\n\n\n====================\n     05-26-2019\n====================\n\n   * frameworks/base/\n4240a2c9769  Add more QS tile style 1/3  [RakeshBatra]\na08ac252835  am: Avoid scheduling service restart twice  [RakeshBatra]\naf2de737356  Re-add WPS implementation (2/3)  [RakeshBatra]\n456d980b3e5  SystemUI: assist: disable old Assistant animations  [RakeshBatra]\ne71002b9f5b  Add Compass tile  [RakeshBatra]\n231c3d47a98  Tint the notification gear based on wallpaper  [RakeshBatra]\n2840665ab0d  Revenge animations v1  [RakeshBatra]\nc9b9c35a880  Fix Text Size  [RakeshBatra]\n9bece519098  Fix NPE on ExpandableNotificationRow  [RakeshBatra]\nf122fb51913  Adjust some padding  [RakeshBatra]\n   * manifest/\ncfcc3ad  Track vendor/qcom/thermal  [RakeshBatra]\nbd28df2  Track FM  [RakeshBatra]\n   * packages/apps/ColtCenter/\nb1dbfa7  Revert \"Network Traffic:Add Option for Users to select size of Single Traffic (Up/Down) Font Size [2/2]\"  [RakeshBatra]\n26ed30d  Revert \"NetworkTraffic: Improve the size of single traffic monitor [2/2]\"  [RakeshBatra]\n33a5402  Add more QS tile style 2/3  [RakeshBatra]\n   * packages/apps/Settings/\nb7760709af  Re-add WPS implementation (1/3)  [RakeshBatra]\n   * vendor/colt/\n848b814  Add more QS tile style 3/3  [RakeshBatra]\nfc9b010  Add sun custom QS tile 3/3  [RakeshBatra]\nad5554c  Add 4 new QS Tile style 3/3  [RakeshBatra]\nf95c465  Roll Back to Default Pixel Accent  [RakeshBatra]\n\n====================\n     05-25-2019\n====================\n\n   * frameworks/base/\n56db62b17bb  LiveDisplay: Improve sunrise/sunset calculator  [RakeshBatra]\n9803ab8e4df  BoostFramework: Trigger IOP at Displayed for duration.  [RakeshBatra]\n020be7f3f78  Boostframework: Adding reserved hint types for launch boost  [RakeshBatra]\n4ff3f16d83d  BoostFramework: Fix - Avoid Null Object Reference.  [RakeshBatra]\ne1dd7495b46  BoostFramework : Modified Start Proc trigger and added Kill Hint.  [RakeshBatra]\nfbd83683508  Use headline font in preference title  [RakeshBatra]\n8d3d25d05f2  LiveDisplay: Use Google's algorithm to convert color temperature to RGB  [RakeshBatra]\n030e71c03a7  Option for disable userinfo in dashboard title [1/2]  [RakeshBatra]\n700d76c5f83  LiveDisplay: Change night/day mode transition behavior  [RakeshBatra]\nc0d8921324e  Smart charge: allow using device overlays  [RakeshBatra]\nec221cc8473  admin: Restore requireSecureKeyguard interface.  [RakeshBatra]\n57a42f81c29  Check for null callerPackage in getStorageEncryptionStatus  [RakeshBatra]\n15f96e3fd64  Fixed auto-brightness first screen update.  [RakeshBatra]\n821fd7183e7  Smart Charging: rework for using more common sysfs node [1/2]  [RakeshBatra]\nf91fe11eebb  LiveDisplay tile: allow override outdoor capablity  [RakeshBatra]\n   * packages/apps/Settings/\nbbffc5a6d8  Option for disable userinfo in dashboard title [2/2]  [RakeshBatra]\nd104729a81  Add a preference controller for Smart Pixels  [RakeshBatra]\n   * vendor/colt/\ne98203a  Version Bumped to 4.2 :)  [RakeshBatra]\n99761b4  Smart Charge: chown all known charge suspend nodes  [RakeshBatra]\ncd42906  Smart Charging: rework for using more common sysfs node [2/2]  [RakeshBatra]\nb39fd7c  Add SweetQ Purple And QGreen Accent  [RakeshBatra]\n\n====================\n     05-24-2019\n====================\n\n\n====================\n     05-23-2019\n====================\n\n\n",
-  "url": "https://sourceforge.net/projects/coltos/files/Potter/ColtOS-Enigma-4.2_OFFICIAL-20190527-potter.zip/download",
+  "build_date": "20190613", 
+  "changelog": "====================\n     06-13-2019\n====================\n\n   * vendor/qcom/opensource/cryptfs_hw/\nafc165e  cryptf$
+  "url": "https://sourceforge.net/projects/coltos/files/Potter/ColtOS-Enigma-4.3_OFFICIAL-20190613-potter.zip/download", 
   "error": "false", 
-  "filename": "ColtOS-Enigma-4.2_OFFICIAL-20190527-potter.zip",
-  "filesize": "650783344",
-  "md5": "66e864a5e75c8cfeea5b481df06dee6b",
+  "filename": "ColtOS-Enigma-4.3_OFFICIAL-20190613-potter.zip", 
+  "filesize": "681811151", 
+  "md5": "35679fa5001584efb2d400325a415e2b", 
   "donate_url": "https://www.paypal.me/rakeshbatra", 
   "addons": [
     {
@@ -24,3 +24,5 @@
   "website_url": "https://plus.google.com/communities/111037372581335961267", 
   "developer": "Anish Pratheepan"
 }
+
+
