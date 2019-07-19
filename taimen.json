@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/pixel-2-xl/development/rom-colt-os-enigma-taimen-t3911826", 
-  "build_date": "20190713", 
-  "changelog": "====================\n     07-13-2019\n====================\n\n   * frameworks/base/\n9e6dcbfbd0e  SystemUI: Protect against terrible music players  [nitin1438]\n   * packages/apps/Dialer/\nac56965ca  Fix InCallUi Buttons being white once pressed post accent commit  [RakeshBatra]\nbf3a05ade  Accent Based InCall-UI[1/3]  [RakeshBatra]\n4cc3783a7  Unlink InCallUI background from Sim colors  [RakeshBatra]\ne5cc730ad  Re-add dialer lookup.  [RakeshBatra]\n8b2b1721f  InCallUI: SmartMute  [RakeshBatra]\n20b31be11  Dialer: AudioModeProvider: use wired route for usb headsets  [RakeshBatra]\ne4c0be9c2  Dialer: Get rid of navigation bar divider  [RakeshBatra]\n\n====================\n     07-12-2019\n====================\n\n\n====================\n     07-11-2019\n====================\n\n\n====================\n     07-10-2019\n====================\n\n   * prebuilts/r8/\nd3646ed  r8: Update D8 and R8 to 1.6.13-local  [RakeshBatra]\n6348103  Fix d8 and r8-compat-proguard scripts to handle quoted options  [RakeshBatra]\n4139361  Provide 2GB of heap space to the Java VM when running D8 and R8  [RakeshBatra]\n13b7fd2  r8: Update D8 and R8 to 1.6.7-dev  [RakeshBatra]\n   * vendor/colt/\n1d1428c0  Time to Update Lawnchair to alpha-2301  [RakeshBatra]\n\n====================\n     07-09-2019\n====================\n\n\n", 
-  "url": "https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-4.4_OFFICIAL-20190713-taimen.zip/download", 
+  "build_date": "20190719", 
+  "changelog": "====================\n     07-19-2019\n====================\n\n   * hardware/colt/interfaces/\n6841faa  Revert \"Remove lineage power hal\"  [nitin1438]\n   * hardware/qcom/display/\n3e171971d  Revert \"sdm: core: Use upstream DRM_MODE_REFLECT_ defines\"  [nitin1438]\n\n====================\n     07-18-2019\n====================\n\n\n====================\n     07-17-2019\n====================\n\n\n====================\n     07-16-2019\n====================\n\n\n====================\n     07-15-2019\n====================\n\n\n", 
+  "url": "https://sourceforge.net/projects/coltos/files/taimen/ColtOS-Enigma-4.4_OFFICIAL-20190719-taimen.zip/download", 
   "error": "false", 
-  "filename": "ColtOS-Enigma-4.4_OFFICIAL-20190713-taimen.zip", 
-  "filesize": "1010849884", 
-  "md5": "8c317f0c91bd0698ddfbd1757ee76daa", 
+  "filename": "ColtOS-Enigma-4.4_OFFICIAL-20190719-taimen.zip", 
+  "filesize": "1011291824", 
+  "md5": "06932b0ead112e857951b2f96058e73b", 
   "donate_url": "https://www.paypal.me/nitinchobhe", 
   "addons": [
     {
