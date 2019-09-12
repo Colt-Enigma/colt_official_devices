@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/nexus-6/development/rom-coltos-shamu-t3709921", 
+  "build_date": "20190913", 
+  "changelog": "====================\n     09-13-2019\n====================\n\n   * hardware/colt/interfaces/\n6769a8b  Revert \"Remove lineage power hal\"  [nitin1438]\n\n====================\n     09-12-2019\n====================\n\n   * colt_official_devices/\nf8f3884  shamu: release ColtOS 4.6  [nitin1438]\n   * vendor/colt/\nf3d9ea7  Add shamu in the OTA list  [GitHub]\n\n====================\n     09-11-2019\n====================\n\n\n====================\n     09-10-2019\n====================\n\n\n====================\n     09-09-2019\n====================\n\n   * manifest/\n7350934  Correct remove.xml  [nitin1438]\n\n", 
+  "url": "https://sourceforge.net/projects/coltos/files/Shamu/ColtOS-Enigma-4.6_OFFICIAL-20190913-shamu.zip/download", 
+  "error": "false", 
+  "filename": "ColtOS-Enigma-4.6_OFFICIAL-20190913-shamu.zip", 
+  "filesize": "467320403", 
+  "md5": "198ea1d81f2ec14d261cd7ffb1de9b46", 
+  "donate_url": "https://www.paypal.me/nitin.chobhe", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=5044214", 
+  "website_url": "https://plus.google.com/communities/111037372581335961267", 
+  "developer": "Nitin1438"
+}
